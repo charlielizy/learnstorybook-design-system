@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
-  "repository": "https://github.com/chromaui/learnstorybook-design-system.git",
+  "repository": "https://github.com/charlielizy/learnstorybook-design-system.git",
   "author": "Charlie Li",
   "private": false,
   "dependencies": {
