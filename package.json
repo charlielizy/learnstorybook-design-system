@@ -1,7 +1,7 @@
 {
   "name": "learnstorybook-design-system-react",
   "description": "Learn Storybook design system",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "repository": "https://github.com/charlielizy/learnstorybook-design-system.git",
@@ -25,7 +25,8 @@
     "build": "cross-env BABEL_ENV=production babel src -d dist",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
-    "chromatic": "npx chromatic --project-token i00o9x5nn0q"
+    "chromatic": "npx chromatic --project-token i00o9x5nn0q",
+    "release": "auto shipit --base-branch=main"
   },
   "eslintConfig": {
     "extends": "react-app"
