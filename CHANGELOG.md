@@ -1,5 +1,19 @@
 # v1.0.1 (Wed Dec 16 2020)
 
+#### ⚠️ Pushed to `master`
+
+- update ([@charlielizy](https://github.com/charlielizy))
+- test ([@charlielizy](https://github.com/charlielizy))
+- Merge branch 'main' of https://github.com/charlielizy/learnstorybook-design-system into main ([@charlielizy](https://github.com/charlielizy))
+
+#### Authors: 1
+
+- Charlie Li ([@charlielizy](https://github.com/charlielizy))
+
+---
+
+# v1.0.1 (Wed Dec 16 2020)
+
 #### ⚠️ Pushed to `main`
 
 - update ([@charlielizy](https://github.com/charlielizy))
