@@ -24,7 +24,7 @@ export default {
 
 export const AllButtons = (args) => (
   <div>
-    <Button appearance="primary">PrimaryBBBB</Button>
+    <Button appearance="primary">PrimaryCCCC</Button>
     <Button appearance="secondary">Secondary</Button>
     <Button appearance="tertiary">Tertiary</Button>
     <Button appearance="outline">Outline</Button>
